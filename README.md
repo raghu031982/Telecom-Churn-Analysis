@@ -1,5 +1,4 @@
-# **Telecom-Churn-Analysis**
-## Predict behavior to retain customers.
+# Telecom-Churn-Analysis: Predict behavior to retain customers
 
 ## Project Overview
 This repository contains the Initial Report, Exploratory Data Analysis (EDA), and Baseline Modeling for the Telecom Churn Prediction project. The primary goal is to identify behavioral "red flags" that indicate a high probability of customer attrition and establish a predictive baseline.
